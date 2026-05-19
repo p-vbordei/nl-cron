@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/nl-cron/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/nl-cron/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/nl-cron.svg)](https://www.npmjs.com/package/nl-cron)
+[![downloads](https://img.shields.io/npm/dm/nl-cron.svg)](https://www.npmjs.com/package/nl-cron)
+[![bundle](https://img.shields.io/bundlejs/size/nl-cron)](https://bundlejs.com/?q=nl-cron)
+
 Parse natural-language schedule phrases into 5-field cron expressions. Zero runtime dependencies.
 
 ```ts
