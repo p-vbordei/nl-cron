@@ -1,6 +1,6 @@
 {
   "name": "nl-cron",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Parse natural-language schedule phrases (\"every monday at 9am\") into 5-field cron expressions. Zero dependencies.",
   "keywords": [
     "cron",
