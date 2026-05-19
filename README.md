@@ -1,5 +1,7 @@
 # nl-cron
 
+[![ci](https://github.com/p-vbordei/nl-cron/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/nl-cron/actions/workflows/ci.yml)
+
 Parse natural-language schedule phrases into 5-field cron expressions. Zero runtime dependencies.
 
 ```ts
